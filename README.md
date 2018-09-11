@@ -1,2 +1,3 @@
 # hello-world
-Getting started with Git.
+1.Getting started with Git.
+2.Working with Git Commands
